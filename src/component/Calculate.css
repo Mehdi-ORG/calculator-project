@@ -1,0 +1,42 @@
+
+.container{
+  width: 400px;
+  padding: 0;
+  margin: 0;
+}
+
+.screen{
+  height: 100px;
+  line-height: 100px;
+  background: #262834;
+  padding: 0;
+  font-size: 30px;
+  text-align: right;
+  color: white;
+}
+.button{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+button{
+  width: 100px;
+  height: 80px;
+  border: 0;
+  outline: 0;
+  color:white;
+  background: #262834;
+  cursor: pointer;
+  font-size: 25px;
+  border: 1px solid rgb(92,92,92);
+}
+
+.color{
+  background:#56cbdb ;
+  color: #262834;
+  font-weight: bold;
+}
+
+.col{
+  width: 200px;
+}
